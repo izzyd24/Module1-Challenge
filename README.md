@@ -1,62 +1,32 @@
 # Module1-Challenge
-A space to temporarily store my module 1 challenge instructions
-
-## Background 
+* Please note, I have submitted the file 'Challenge 1 Sheet' in order to only include the two deliverables
+* If you would like to see the sheet I did all my class work on, please ask!
+## Overview of Project
 * Louise Fever play w/ fundraising goal fell short due to time 
 * Wants to know how different campaigns did in relation to: 
 *   1. Launch dates
 *   2. Funding goals
 * Use Kickstarter dataset 
 
-### Creation 
-* 2 technical analysis + 1 written report 
-* Deliverable 1: Outcomes Based on Launch Date Chart 
-* Deliverable 2: Outcomes Based on Goals Chart
-* Deliverable 3: A written analysis of the results (README file)
-
-#### Deliverables 
-* D1: 50 PTS
-*   Goal: Use pivots + graphs to visualize outcomes (S, F, C) vs launch date 
-* D2: 30 PTS
-*   Goal: Visualize the % of S, F, C plays vs funding goal amount + use Countifs() to collect outcome + goal data for plays 
-* D3: 20 PTS
-*   Goal: Construct read me to provide all files + written analysis 
-##### Links
-* Written Template Link: https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_1/Written_Report_Template.md
-* GitHub Syntax: https://help.github.com/en/articles/basic-writing-and-formatting-syntax
-
-###### Submission
-* Place on homepage within Kickstarter repo
-
-
-
-
-
-
-###### Read Me Tempalte 
-# Kickstarting with Excel
-
-## Overview of Project
-* After 
-### Purpose
-
-## Analysis and Challenges
-
 ### Analysis of Outcomes Based on Launch Date
+- Two conclusions about the Outcomes based on Launch Date: 
+* A. XXXX
+* B. XXXX
 
 ### Analysis of Outcomes Based on Goals
+- Conclusion about the Outcomes based on Goals:
+* A. XXXXX
+* B. XXXXX
 
 ### Challenges and Difficulties Encountered
+- Limitations of this dataset:
+* A. XXX
+* B. XXX
 
-## Results
+- Possible Tables/graphs to create: 
+* A. XXX
+* B. XXX
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
-
-- What can you conclude about the Outcomes based on Goals?
-
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
 
 
 
