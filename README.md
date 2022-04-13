@@ -24,8 +24,8 @@
 
 ### Challenges and Difficulties Encountered
 - Limitations of this dataset:
-![Screenshot (334)](https://user-images.githubusercontent.com/102266450/163078814-856d09ec-e095-4672-a4a6-f4fc392a2c1a.png)
-![Screenshot 2022-04-06 104300](https://user-images.githubusercontent.com/102266450/163078839-63c1296c-e9e0-4f82-b9ce-e9fc4b9b57aa.png)
+![Screenshot 2022-04-05 200308](https://user-images.githubusercontent.com/102266450/163079222-078a5663-2c18-4642-9d8c-79a5c6c1d433.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/102266450/163079231-9ba8920a-8b89-43ad-ac15-b25f8f847cc7.png)
 
 * A. XXX
 * B. XXX
