@@ -10,29 +10,28 @@
 
 ### Analysis of Outcomes Based on Launch Date
 - Two conclusions about the Outcomes based on Launch Date: 
-- ![Theater Outcomes_Vs_Launch](https://user-images.githubusercontent.com/102266450/163078181-ac64842b-614d-4f8f-985f-998de3f3960d.png)
--
+![Theater Outcomes_Vs_Launch](https://user-images.githubusercontent.com/102266450/163078181-ac64842b-614d-4f8f-985f-998de3f3960d.png)
+
 * A.
 * B. 
 
 ### Analysis of Outcomes Based on Goals
 - Conclusion about the Outcomes based on Goals:
-- ![Outcomes_Vs_Goal](https://user-images.githubusercontent.com/102266450/163078205-27e21943-51a6-4ea8-b99d-0a9fceb961c3.png)
+![Outcomes_Vs_Goal](https://user-images.githubusercontent.com/102266450/163078205-27e21943-51a6-4ea8-b99d-0a9fceb961c3.png)
 
 * A. XXXXX
 * B. XXXXX
 
 ### Challenges and Difficulties Encountered
 - Limitations of this dataset:
-- ![Screenshot (334)](https://user-images.githubusercontent.com/102266450/163078814-856d09ec-e095-4672-a4a6-f4fc392a2c1a.png)
-- ![Screenshot 2022-04-05 200308](https://user-images.githubusercontent.com/102266450/163078832-58f6fc3a-67ad-4136-9f6e-9d94908549a1.png)
+![Screenshot (334)](https://user-images.githubusercontent.com/102266450/163078814-856d09ec-e095-4672-a4a6-f4fc392a2c1a.png)
 ![Screenshot 2022-04-06 104300](https://user-images.githubusercontent.com/102266450/163078839-63c1296c-e9e0-4f82-b9ce-e9fc4b9b57aa.png)
 
 * A. XXX
 * B. XXX
 
 - Possible Tables/graphs to create: 
-- ![Louise Parent Cateogry Outcomes](https://user-images.githubusercontent.com/102266450/163078860-163451ec-17d0-4857-b042-e741df00ac48.png)
+![Louise Parent Cateogry Outcomes](https://user-images.githubusercontent.com/102266450/163078860-163451ec-17d0-4857-b042-e741df00ac48.png)
 
 * A. XXX
 * B. XXX
