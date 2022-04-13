@@ -11,20 +11,26 @@
 ### Analysis of Outcomes Based on Launch Date
 - Two conclusions about the Outcomes based on Launch Date: 
 * A. XXXX
+* Screenshot
 * B. XXXX
+* Screenshot
 
 ### Analysis of Outcomes Based on Goals
 - Conclusion about the Outcomes based on Goals:
 * A. XXXXX
+* Screenshot
 * B. XXXXX
+* Screenshot
 
 ### Challenges and Difficulties Encountered
 - Limitations of this dataset:
 * A. XXX
+* Screenshot
 * B. XXX
 
 - Possible Tables/graphs to create: 
 * A. XXX
+* Screenshot
 * B. XXX
 
 
